@@ -1,2 +1,9 @@
 # Spatial-Clustering-of-Air-Pollution-in-NYC
-his repository contains the code and analysis for a project that explores the spatial clustering of air pollution in New York City. I utilized annual average data for PM2.5 and NO2 levels. The project compares the performance of K-means and hierarchical clustering algorithms in identifying distinct air quality zones within the city.
+This repository contains the code and analysis for a research project investigating the spatial distribution of air pollutants (PM2.5 and NO2) in New York City. I utilized K-means and hierarchical clustering algorithms to identify distinct clusters and evaluate areas with high pollutant concentrations.
+
+Key Findings:
+
+Identified three distinct clusters of air quality in NYC.
+Revealed areas with disproportionately high PM2.5 and NO2 concentrations.
+Demonstrated the strengths and weaknesses of K-means and hierarchical clustering for environmental data analysis.
+**View the full research paper:** 
