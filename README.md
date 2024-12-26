@@ -6,4 +6,5 @@ Key Findings:
 Identified three distinct clusters of air quality in NYC.
 Revealed areas with disproportionately high PM2.5 and NO2 concentrations.
 Demonstrated the strengths and weaknesses of K-means and hierarchical clustering for environmental data analysis.
+
 **View the full research paper:** 
